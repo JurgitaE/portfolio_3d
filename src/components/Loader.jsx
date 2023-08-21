@@ -1,9 +1,5 @@
-import React from 'react'
+const CanvasLoader = () => {
+    return <div></div>;
+};
 
-const Loader = () => {
-  return (
-    <div>Loader</div>
-  )
-}
-
-export default Loader
+export { CanvasLoader };
