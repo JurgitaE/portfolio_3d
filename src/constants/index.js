@@ -1,7 +1,8 @@
 import {
     mobile,
-    backend,
-    creator,
+    game,
+    // backend,
+    // creator,
     web,
     javascript,
     typescript,
@@ -46,17 +47,17 @@ const services = [
         icon: web,
     },
     {
-        title: 'React Native Developer',
+        title: 'React.js Developer',
         icon: mobile,
     },
     {
-        title: 'Backend Developer',
-        icon: backend,
+        title: 'Game Developer',
+        icon: game,
     },
-    {
+    /*    {
         title: 'Content Creator',
         icon: creator,
-    },
+    }, */
 ];
 
 const technologies = [
