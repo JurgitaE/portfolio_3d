@@ -18,4 +18,4 @@ const CanvasLoader = () => {
     );
 };
 
-export default CanvasLoader;
+export { CanvasLoader };
